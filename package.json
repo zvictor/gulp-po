@@ -1,0 +1,54 @@
+{
+  "name": "gulp-po",
+  "version": "1.0.7",
+  "description": "Gulp extension for synchronizing translates from POEditor.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "poeditor"
+  ],
+  "dependencies": {
+    "js-yaml": "^3.2.7",
+    "lodash": "^3.6.0",
+    "request": "^2.55.0",
+    "through2": "^0.6.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-changed": "^1.2.1",
+    "gulp-coffee": "^2.3.1",
+    "gulp-plumber": "^1.0.0",
+    "gulp-util": "^3.0.4"
+  },
+  "author": {
+    "name": "Pavel Potacek",
+    "email": "potacek.pavel@gmail.com"
+  },
+  "license": "MIT",
+  "gitHead": "3225fa7ee64644746a35d091f3310f80be7ab1c8",
+  "_id": "gulp-po@1.0.7",
+  "_shasum": "54bc55e8c7dadb076a87e3f3903c2713195043bf",
+  "_from": "gulp-po@*",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "potty",
+    "email": "potacek.pavel@gmail.com"
+  },
+  "dist": {
+    "shasum": "54bc55e8c7dadb076a87e3f3903c2713195043bf",
+    "tarball": "http://registry.npmjs.org/gulp-po/-/gulp-po-1.0.7.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "potty",
+      "email": "potacek.pavel@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-po/-/gulp-po-1.0.7.tgz",
+  "readme": "ERROR: No README data found!"
+}
